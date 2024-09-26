@@ -26,10 +26,10 @@ awsome-android-extensions 适合Android浏览器 的扩展
 | 下载地址  | Chrome应用商店 | 说明 |
 | ----- | ----- | ----- |
 | [uBlock Origin Lite](data/extensions/202409_uBlock-Origin-Lite-2024.9.12.1004.crx)| [查看详情](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?hl=zh-CN&utm_source=ext_sidebar)       |8M|
-| [AdBlock](data/extensions/202409_AdBlock-6.9.1.crx)| [查看详情](https://chromewebstore.google.com/detail/adblock-%E6%8B%A6%E6%88%AA%E6%95%B4%E4%B8%AA%E7%BD%91%E7%BB%9C%E7%9A%84%E5%B9%BF%E5%91%8A/gighmmpiobklfepjocnamgkkbiglidom?hl=zh-CN&utm_source=ext_sidebar)|63.8M 扩展太大，主要是过滤规则|
-| [Adblock Plus](data/extensions/202409_Adblock-Plus-4.7.crx)| [查看详情](https://chromewebstore.google.com/detail/adblock-plus-%E5%85%8D%E8%B4%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/cfhdojbkjhnklbpkdaibdccddilifddb?hl=zh-CN&utm_source=ext_sidebar) |63.6M 扩展太大，主要是过滤规则|
 | [AdBlocker Ultimate](data/extensions/202409_AdBlocker-Ultimate-4.0.38.crx)| [查看详情](https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof?hl=zh-CN&gl=US)|10M|
 | [AdGuard](data/extensions/202409_AdGuard-5.0.97.crx)| [查看详情](https://chromewebstore.google.com/detail/adguard-%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/bgnkhhnnamicmpeenaelnjfhikgbkllg?hl=zh-CN&utm_source=ext_sidebar)|29.4M |
+| [AdBlock](data/extensions/202409_AdBlock-6.9.1.crx)| [查看详情](https://chromewebstore.google.com/detail/adblock-%E6%8B%A6%E6%88%AA%E6%95%B4%E4%B8%AA%E7%BD%91%E7%BB%9C%E7%9A%84%E5%B9%BF%E5%91%8A/gighmmpiobklfepjocnamgkkbiglidom?hl=zh-CN&utm_source=ext_sidebar)|63.8M 主要是过滤规则|
+| [Adblock Plus](data/extensions/202409_Adblock-Plus-4.7.crx)| [查看详情](https://chromewebstore.google.com/detail/adblock-plus-%E5%85%8D%E8%B4%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/cfhdojbkjhnklbpkdaibdccddilifddb?hl=zh-CN&utm_source=ext_sidebar) |63.6M 主要是过滤规则|
 
 ## 翻译
 
