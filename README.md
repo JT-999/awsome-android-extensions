@@ -35,7 +35,7 @@ awsome-android-extensions 适合Android浏览器 的扩展
 
 | 下载地址  | Chrome应用商店 | 说明 | 
 | ----- | ----- | ----- |
-| [沉浸式翻译](data/extensions/202409_沉浸式翻译-1.9.6.crx)| [查看详情](https://chromewebstore.google.com/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6-pdf%E7%BF%BB%E8%AF%91-%E5%85%8D%E8%B4%B9/bpoadfkcbjbfhfodiogcnhhhpibjhbnh?hl=zh-CN&utm_source=ext_sidebar) |-|
+| [沉浸式翻译](data/extensions/202409_沉浸式翻译-1.9.6.crx)| [查看详情](https://chromewebstore.google.com/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6-pdf%E7%BF%BB%E8%AF%91-%E5%85%8D%E8%B4%B9/bpoadfkcbjbfhfodiogcnhhhpibjhbnh?hl=zh-CN&utm_source=ext_sidebar) |网页翻译插件-pdf翻译-免费|
 
 ## 隐私类扩展
 
