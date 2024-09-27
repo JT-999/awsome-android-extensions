@@ -6,8 +6,9 @@ awsome-android-extensions 适合Android浏览器 的扩展
   - [支持扩展能力的Android浏览器客户端](#支持扩展能力的android浏览器客户端)
   - [广告过滤](#广告过滤)
   - [翻译](#翻译)
+  - [视频类](#视频类)
   - [隐私类扩展](#隐私类扩展)
-  - [其它](#其它)
+  - [夜间模式](#夜间模式)
   - [📫如何联系我](#如何联系我)
   - [⚡有趣的事](#有趣的事)
 
@@ -37,6 +38,13 @@ awsome-android-extensions 适合Android浏览器 的扩展
 | ----- | ----- | ----- |
 | [沉浸式翻译](data/extensions/202409_沉浸式翻译-1.9.6.crx)| [查看详情](https://chromewebstore.google.com/detail/%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%BF%BB%E8%AF%91-%E7%BD%91%E9%A1%B5%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6-pdf%E7%BF%BB%E8%AF%91-%E5%85%8D%E8%B4%B9/bpoadfkcbjbfhfodiogcnhhhpibjhbnh?hl=zh-CN&utm_source=ext_sidebar) |网页翻译插件-pdf翻译-免费|
 
+## 视频类
+
+| 下载地址  | Chrome应用商店 | 说明 | 
+| ----- | ----- | ----- |
+| [Unhook - Remove YouTube Recommended & Shorts](data/extensions/202409_Unhook-Remove-YouTube-Recommended-1.6.8.0.crx)| [查看详情](https://chromewebstore.google.com/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid?hl=zh-CN&utm_source=ext_sidebar) |隐藏YouTube上的相关视频、短片、评论、推荐墙、首页推荐|
+| [Global Speed](data/extensions/202408_Global-Speed-3.0.9971.crx)| [查看详情](https://chromewebstore.google.com/detail/global-speed-%E8%A7%86%E9%A2%91%E9%80%9F%E5%BA%A6%E6%8E%A7%E5%88%B6/jpbjcnkcffbooppibceonlgknpkniiff?hl=zh-CN&utm_source=ext_sidebar)|视频播放速度控制|
+
 ## 隐私类扩展
 
 | 下载地址  | Chrome应用商店 | 说明 |
@@ -45,12 +53,12 @@ awsome-android-extensions 适合Android浏览器 的扩展
 | [Cookie Manager](data/extensions/202408_Cookie-Manager-0.0.2.crx)| [查看详情](https://chromewebstore.google.com/detail/cookiemanager-cookie-edit/hdhngoamekjhmnpenphenpaiindoinpo?hl=zh-CN&utm_source=ext_sidebar)|-|
 | [I Still Don't Care About Cookie](data/extensions/202408_i-still-dont-care-about-cookie-1.1.4.crx)|  [查看详情](https://chromewebstore.google.com/detail/i-still-dont-care-about-c/edibdbjcniadpccecjdfdjjppcpchdlm?hl=zh-CN&utm_source=ext_sidebar)|-|
 
-## 其它
+## 夜间模式
 
 | 下载地址  | Chrome应用商店 | 说明 |
 | ----- | ----- | ----- |
 | [Dark Reader](data/extensions/202408_dark-reader_4.9.88.crx)|  [查看详情](https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=zh-CN&utm_source=ext_sidebar)|夜间模式|
-| [Global Speed](data/extensions/202408_Global-Speed-3.0.9971.crx)| [查看详情](https://chromewebstore.google.com/detail/global-speed-%E8%A7%86%E9%A2%91%E9%80%9F%E5%BA%A6%E6%8E%A7%E5%88%B6/jpbjcnkcffbooppibceonlgknpkniiff?hl=zh-CN&utm_source=ext_sidebar)|视频播放速度控制|
+
 
 ## 📫如何联系我
 - [GitHub Issues 或 Discussions](https://github.com/JT-999/awsome-android-extensions/issues) 🗨️ 
