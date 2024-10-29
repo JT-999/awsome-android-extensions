@@ -17,7 +17,7 @@ awsome-android-extensions 适合Android浏览器 的扩展
 
 ## 支持扩展能力的Android浏览器客户端
 
-- [360极速浏览器](https://h5.mse.360.cn/lite/index.html) --- 来源于内测版本，扩展能力WebView基础上二次开发
+- [360极速浏览器](https://h5.mse.360.cn/lite/index.html) [内测链接](https://easydoc.soft.360.cn/doc?project=0371e6ffdd6e1d7b3a679f8107340405&doc=a7cf5240b8808e3f6a62aba82f907da0&config=title_menu_toc) --- 来源于内测版本，扩展能力WebView基础上二次开发
 - [Edge](https://play.google.com/store/apps/details?id=com.microsoft.emmx) --- 来源于官网，扩展能力基于Chromium实现
 - 狐猴浏览器 --- 来源于应用市场，扩展能力基于Chromium实现
 
