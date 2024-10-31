@@ -4,6 +4,7 @@ awsome-android-extensions 适合Android浏览器 的扩展
 
 - [awsome-android-extensions](#awsome-android-extensions)
   - [支持扩展能力的Android浏览器客户端](#支持扩展能力的android浏览器客户端)
+  - [AI类扩展](#ai类扩展)
   - [广告过滤](#广告过滤)
   - [翻译](#翻译)
   - [视频类](#视频类)
@@ -20,6 +21,14 @@ awsome-android-extensions 适合Android浏览器 的扩展
 - [360极速浏览器](https://h5.mse.360.cn/lite/index.html) [内测链接](https://easydoc.soft.360.cn/doc?project=0371e6ffdd6e1d7b3a679f8107340405&doc=a7cf5240b8808e3f6a62aba82f907da0&config=title_menu_toc) --- 来源于内测版本，扩展能力WebView基础上二次开发
 - [Edge](https://play.google.com/store/apps/details?id=com.microsoft.emmx) --- 来源于官网，扩展能力基于Chromium实现
 - 狐猴浏览器 --- 来源于应用市场，扩展能力基于Chromium实现
+
+## AI类扩展
+
+| 下载地址  | Chrome应用商店 | 说明 |
+| ----- | ----- | ----- |
+| [AI助手](data/extensions/202411_AI助手_1.3.1.crx)| [查看详情](https://chromewebstore.google.com/detail/ai%E5%8A%A9%E6%89%8B/fdcmomajekgiigcalflcbjbkemogcbaf)       |3.36M|
+| [Kimi浏览器助手](data/extensions/202411_Kimi浏览器助手_1.1.2.crx)| [查看详情](https://chromewebstore.google.com/detail/kimi-%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8A%A9%E6%89%8B/caejcfciegnnnepdhaopdogngbmojodl)       |2.48M|
+| [豆包](data/extensions/202411_豆包_1.13.3.crx)| [查看详情](https://chromewebstore.google.com/detail/%E8%B1%86%E5%8C%85%EF%BC%8C%E6%B5%8F%E8%A7%88%E5%99%A8-ai-%E5%8A%A9%E6%89%8B/dbjibobgilijgolhjdcbdebjhejelffo?hl=zh-CN&utm_source=ext_sidebar)       |5.96M|
 
 
 ## 广告过滤
