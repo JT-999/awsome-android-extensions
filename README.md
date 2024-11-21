@@ -27,9 +27,10 @@ awsome-android-extensions 适合Android浏览器 的扩展
 
 | 下载地址  | Chrome应用商店 | 说明 |
 | ----- | ----- | ----- |
+| [豆包](data/extensions/202411_豆包_1.13.3.crx)| [查看详情](https://chromewebstore.google.com/detail/%E8%B1%86%E5%8C%85%EF%BC%8C%E6%B5%8F%E8%A7%88%E5%99%A8-ai-%E5%8A%A9%E6%89%8B/dbjibobgilijgolhjdcbdebjhejelffo?hl=zh-CN&utm_source=ext_sidebar)       |5.96M|
 | [AI助手](data/extensions/202411_AI助手_1.3.1.crx)| [查看详情](https://chromewebstore.google.com/detail/ai%E5%8A%A9%E6%89%8B/fdcmomajekgiigcalflcbjbkemogcbaf)       |3.36M|
 | [Kimi浏览器助手](data/extensions/202411_Kimi浏览器助手_1.1.2.crx)| [查看详情](https://chromewebstore.google.com/detail/kimi-%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8A%A9%E6%89%8B/caejcfciegnnnepdhaopdogngbmojodl)       |2.48M|
-| [豆包](data/extensions/202411_豆包_1.13.3.crx)| [查看详情](https://chromewebstore.google.com/detail/%E8%B1%86%E5%8C%85%EF%BC%8C%E6%B5%8F%E8%A7%88%E5%99%A8-ai-%E5%8A%A9%E6%89%8B/dbjibobgilijgolhjdcbdebjhejelffo?hl=zh-CN&utm_source=ext_sidebar)       |5.96M|
+
 
 
 ## 广告过滤
