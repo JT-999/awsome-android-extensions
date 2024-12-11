@@ -32,6 +32,10 @@ awsome-android-extensions 适合Android浏览器 的扩展
 | [Kimi浏览器助手](data/extensions/202411_Kimi浏览器助手_1.1.2.crx)| [查看详情](https://chromewebstore.google.com/detail/kimi-%E6%B5%8F%E8%A7%88%E5%99%A8%E5%8A%A9%E6%89%8B/caejcfciegnnnepdhaopdogngbmojodl)       |2.48M|
 | [Circle阅读助手](data/extensions/202411_Circle阅读助手3.2.3.0.crx)|  [查看详情](https://chromewebstore.google.com/detail/circle-%E9%98%85%E8%AF%BB%E5%8A%A9%E6%89%8B/dhpfcgilccfkodnhbllpiaabofjbjcbg)|阅读助手|
 | [篡改猴](data/extensions/202411_篡改猴5.3.2.crx)| [查看详情](https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN&utm_source=ext_sidebar)       |1.58M|
+| [AIX智能下载器](data/extensions/202412_AIX智能下载器-9.0.52.crx)| [查看详情](https://chromewebstore.google.com/detail/aix%E6%99%BA%E8%83%BD%E4%B8%8B%E8%BD%BD%E5%99%A8%E5%9B%BE%E7%89%87%E8%A7%86%E9%A2%91%E9%9F%B3%E4%B9%90%E6%96%87%E6%A1%A3/ibdfeimkglcmdejppabkaidpippniiob?hl=zh-CN&utm_source=ext_sidebar)       |1.64M|
+| [ACG助手](data/extensions/202412_ACG助手.crx)| [查看详情](https://chromewebstore.google.com/detail/acg%E5%8A%A9%E6%89%8B-%E4%B8%93%E4%B8%BA%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9bilibili%E5%AE%9A%E5%88%B6%EF%BC%8C%E5%8F%AF%E8%A7%86/kpbnombpnpcffllnianjibmpadjolanh?hl=zh-CN&utm_source=ext_sidebar)       |3.5M|
+| [极简VIP视频解析](data/extensions/202412_极简VIP视频解析.crx)| [查看详情](https://chromewebstore.google.com/detail/%E6%9E%81%E7%AE%80vip%E8%A7%86%E9%A2%91%E8%A7%A3%E6%9E%90/gloimpghnmdnmenclkcbmjifpojoenng?hl=zh-CN&utm_source=ext_sidebar)       |414KB|
+
 
 
 
