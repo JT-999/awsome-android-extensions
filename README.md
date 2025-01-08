@@ -66,6 +66,7 @@
 | Global Speed | [下载](data/extensions/202408_Global-Speed-3.0.9971.crx) | [商店](https://chromewebstore.google.com/detail/global-speed/jpbjcnkcffbooppibceonlgknpkniiff) | 156KB | 视频速度控制 |
 | Unhook | [下载](data/extensions/202409_Unhook-Remove-YouTube-Recommended-1.6.8.0.crx) | [商店](https://chromewebstore.google.com/detail/unhook/khncfooichmfjbepaaaebmommgaepoid) | 1.8M | 移除YouTube推荐内容 |
 | SponsorBlock | [下载](data/extensions/20241216_SponsorBlock-for-YouTube-5.10.2.crx) | [商店](https://chromewebstore.google.com/detail/sponsorblock/mnjggcdmjocbbbhaepdhchncahnbgone) | 1.52M | 跳过YouTube广告片段 |
+| 极简VIP视频解析 | [下载](data/extensions/202412_极简VIP视频解析-3.8.39.crx) | [商店](https://chromewebstore.google.com/detail/%E6%9E%81%E7%AE%80vip%E8%A7%86%E9%A2%91%E8%A7%A3%E6%9E%90/gloimpghnmdnmenclkcbmjifpojoenng?hl=zh-CN&utm_source=ext_sidebar) | 415KB | 视频VIP解析 |
 
 ### 阅读辅助
 
