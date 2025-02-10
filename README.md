@@ -92,6 +92,7 @@
 | 篡改猴 | [下载](data/extensions/202411_篡改猴5.3.2.crx) | [商店](https://chromewebstore.google.com/detail/篡改猴/dhdgffkkebhmkfjojejmpbldmpobfkfo) | 1.58M | 用户脚本管理器 |
 | Easy QR Code | [下载](data/extensions/202408_Easy-QR-Code-1.0.7.crx) | [商店](https://chromewebstore.google.com/detail/easy-qr-code/foapkpfgfjeibfocdfafnhkjaokpglkj) | 245KB | 二维码生成工具 |
 | 找券券 | [下载](data/extensions/202408_找券券_3.3.3.crx) | [商店](https://chromewebstore.google.com/detail/找券券/kkpjfgbpkjhonblnmcpbghfkcfkgkfdg) | 1.2M | 优惠券查找工具 |
+| User-Agent Switcher and Manager | [下载](data/extensions/20250210_User-Agent-Switcher-and-Manager-0.6.3.crx) | [商店](https://chromewebstore.google.com/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg?hl=zh-CN&utm_source=ext_sidebar) | 809KB | 用户代理切换器 |
 
 ## 参与贡献
 
