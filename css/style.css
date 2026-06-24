@@ -129,6 +129,18 @@ section { max-width: var(--max); margin: 0 auto; padding: 5rem 2rem; }
 .browser-card a { font-family: var(--mono); font-size: .85rem; color: var(--accent); }
 .browser-card a:hover { text-decoration: underline; }
 
+#browsers { padding-top: 2.5rem; padding-bottom: 2.5rem; }
+#browsers .section-header { margin-bottom: 1.2rem; }
+.browser-grid { display: block; }
+.browser-card { padding: .4rem 1.2rem; }
+.browser-card:hover { transform: none; }
+.browser-row { display: flex; align-items: center; gap: .8rem; padding: .65rem 0; border-bottom: 1px solid var(--border); }
+.browser-row:last-child { border-bottom: none; }
+.browser-name { font-size: .92rem; font-weight: 600; }
+.browser-card .impl { margin: 0; }
+.browser-row a { font-family: var(--mono); font-size: .8rem; color: var(--accent); margin-left: auto; }
+.browser-na { font-size: .8rem; color: var(--text-dim); margin-left: auto; }
+
 /* TABS */
 .tabs { display: flex; gap: .5rem; margin-bottom: 2rem; overflow-x: auto; padding-bottom: .5rem; -webkit-overflow-scrolling: touch; }
 .tab {

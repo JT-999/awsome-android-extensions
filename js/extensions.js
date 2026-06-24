@@ -9,11 +9,7 @@ const ICONS = {
   tool: '<path d="M14.7 6.3a4 4 0 0 0-5.4 5.4L3 18v3h3l6.3-6.3a4 4 0 0 0 5.4-5.4l-2.5 2.5-2.1-2.1z"/>',
 };
 
-let DATA = null;
-
-async function loadData() {
-  const resp = await fetch('data/extensions.json');
-  DATA = await resp.json();
+function init() {
   renderBrowsers();
   renderTabs();
   renderExtensions(DATA.categories[0].id);
@@ -26,14 +22,17 @@ function icon(name) {
 
 function renderBrowsers() {
   const grid = document.getElementById('browser-grid');
-  grid.innerHTML = DATA.browsers.map(b => `
+  grid.innerHTML = `
     <div class="browser-card reveal">
-      <h3>${b.name}</h3>
-      <span class="impl">${b.impl}</span>
-      <p>${b.desc}</p>
-      ${b.url ? `<a href="${b.url}" target="_blank" rel="noopener">下载 &nearr;</a>` : '<span style="color:var(--text-dim);font-size:.85rem">应用市场搜索</span>'}
+      ${DATA.browsers.map(b => `
+        <div class="browser-row">
+          <span class="browser-name">${b.name}</span>
+          <span class="impl">${b.impl}</span>
+          ${b.url ? `<a href="${b.url}" target="_blank" rel="noopener">下载 &nearr;</a>` : '<span class="browser-na">应用市场搜索</span>'}
+        </div>
+      `).join('')}
     </div>
-  `).join('');
+  `;
 }
 
 function renderTabs() {
@@ -76,4 +75,4 @@ function renderQR() {
   document.querySelectorAll('.qr-img').forEach(img => { img.src = qrSrc; });
 }
 
-document.addEventListener('DOMContentLoaded', loadData);
+document.addEventListener('DOMContentLoaded', init);

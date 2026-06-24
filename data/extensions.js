@@ -1,4 +1,4 @@
-{
+const DATA = {
   "qrTarget": "https://jt-999.github.io/awsome-android-extensions/",
   "extBase": "data/extensions/",
   "browsers": [
@@ -91,4 +91,4 @@
       ]
     }
   ]
-}
+};
