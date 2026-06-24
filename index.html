@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Awesome Android Extensions</title>
+  <meta name="description" content="适用于 Android 浏览器的优质扩展集合，广告过滤、翻译、AI 助手、下载工具等 24+ 扩展一站下载。">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;600;700&family=Noto+Sans+SC:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- NAV -->
+<nav class="nav">
+  <div class="nav-logo">Android Extensions</div>
+  <button class="nav-toggle" aria-label="Toggle menu">&#9776;</button>
+  <ul class="nav-links">
+    <li><a href="#browsers">browsers</a></li>
+    <li><a href="#extensions">extensions</a></li>
+    <li><a href="https://github.com/JT-999/awsome-android-extensions" target="_blank" rel="noopener">GitHub</a></li>
+  </ul>
+</nav>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-left">
+    <p class="hero-prompt"><span>~</span>/android $ ls extensions/</p>
+    <h1 class="hero-title">Awesome <span class="accent">Android</span> Extensions</h1>
+    <p class="hero-sub">适用于 Android 浏览器的优质扩展集合，让移动端浏览体验更加丝滑。</p>
+    <div class="hero-stats">
+      <div class="stat"><span class="num">24+</span><span class="lbl">扩展</span></div>
+      <div class="stat"><span class="num">8</span><span class="lbl">分类</span></div>
+      <div class="stat"><span class="num">3</span><span class="lbl">浏览器</span></div>
+    </div>
+    <div class="hero-actions">
+      <a href="#extensions" class="btn btn-primary">浏览扩展 &darr;</a>
+      <a href="https://github.com/JT-999/awsome-android-extensions" class="btn btn-ghost" target="_blank" rel="noopener">GitHub &nearr;</a>
+    </div>
+  </div>
+  <div class="hero-right">
+    <div class="terminal">
+      <div class="terminal-bar">
+        <span class="terminal-dot"></span>
+        <span class="terminal-dot"></span>
+        <span class="terminal-dot"></span>
+        <span class="terminal-title">bash</span>
+      </div>
+      <div class="terminal-body" id="terminal-output"></div>
+    </div>
+  </div>
+</section>
+
+<!-- BROWSERS -->
+<section id="browsers">
+  <div class="section-header reveal">
+    <p class="section-label">supported_browsers</p>
+    <h2 class="section-title">支持的浏览器</h2>
+  </div>
+  <div class="browser-grid" id="browser-grid"></div>
+</section>
+
+<!-- EXTENSIONS -->
+<section id="extensions">
+  <div class="section-header reveal">
+    <p class="section-label">extensions</p>
+    <h2 class="section-title">扩展列表</h2>
+  </div>
+  <div class="tabs" id="tabs"></div>
+  <div class="ext-grid" id="ext-grid"></div>
+</section>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <div class="footer-inner">
+    <div class="footer-text">
+      &copy; 2024 <a href="https://github.com/JT-999" target="_blank" rel="noopener">JT-999</a>. Awesome Android Extensions.
+    </div>
+    <div class="footer-qr">
+      <img class="qr-img" alt="QR Code" src="">
+      <span class="qr-cap">扫码在手机上访问</span>
+    </div>
+  </div>
+</footer>
+
+<!-- QR FLOAT (desktop only) -->
+<div class="qr-float">
+  <div class="qr-pop">
+    <img class="qr-img" alt="QR Code" src="">
+    <p>扫码在手机上访问</p>
+  </div>
+  <button class="qr-float-btn" aria-label="Show QR Code">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="3" height="3"/><rect x="18" y="14" width="3" height="3"/><rect x="14" y="18" width="3" height="3"/><rect x="18" y="18" width="3" height="3"/>
+    </svg>
+  </button>
+</div>
+
+<script src="js/extensions.js"></script>
+<script src="js/nav.js"></script>
+<script src="js/scroll.js"></script>
+<script src="js/terminal.js"></script>
+<script src="js/qr.js"></script>
+</body>
+</html>

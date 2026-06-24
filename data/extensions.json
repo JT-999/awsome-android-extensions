@@ -1,0 +1,94 @@
+{
+  "qrTarget": "https://jt-999.github.io/awsome-android-extensions/",
+  "extBase": "data/extensions/",
+  "browsers": [
+    { "name": "360极速浏览器", "url": "https://h5.mse.360.cn/lite/index.html", "impl": "WebView", "desc": "基于 WebView 二次开发" },
+    { "name": "Edge", "url": "https://play.google.com/store/apps/details?id=com.microsoft.emmx", "impl": "Chromium", "desc": "基于 Chromium 实现" },
+    { "name": "狐猴浏览器", "url": "", "impl": "Chromium", "desc": "应用市场搜索下载" }
+  ],
+  "categories": [
+    {
+      "id": "adblock",
+      "name": "广告过滤",
+      "icon": "shield",
+      "items": [
+        { "name": "uBlock Origin Lite", "file": "202409_uBlock-Origin-Lite-2024.9.12.1004.crx", "store": "https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh", "size": "1.2M", "desc": "轻量级广告拦截器" },
+        { "name": "AdBlocker Ultimate", "file": "202409_AdBlocker-Ultimate-4.0.38.crx", "store": "https://chromewebstore.google.com/detail/adblocker-ultimate/ohahllgiabjaoigichmmfljhkcfikeof", "size": "2.8M", "desc": "终极广告拦截器" },
+        { "name": "AdGuard", "file": "202409_AdGuard-5.0.97.crx", "store": "https://chromewebstore.google.com/detail/adguard/bgnkhhnnamicmpeenaelnjfhikgbkllg", "size": "29.4M", "desc": "综合广告拦截工具" },
+        { "name": "AdBlock", "file": "202409_AdBlock-6.9.1.crx", "store": "https://chromewebstore.google.com/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom", "size": "3.1M", "desc": "经典广告拦截器" },
+        { "name": "Adblock Plus", "file": "202409_Adblock-Plus-4.7.crx", "store": "https://chromewebstore.google.com/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb", "size": "2.9M", "desc": "老牌广告拦截器" }
+      ]
+    },
+    {
+      "id": "translate",
+      "name": "翻译工具",
+      "icon": "globe",
+      "items": [
+        { "name": "沉浸式翻译", "file": "202409_沉浸式翻译-1.9.6.crx", "store": "https://chromewebstore.google.com/detail/沉浸式翻译/bpoadfkcbjbfhfodiogcnhhhpibjhbnh", "size": "4.2M", "desc": "支持网页和PDF翻译" },
+        { "name": "Translate Web Pages", "file": "202409_TWP_10.0.1.0.crx", "store": "https://github.com/FilipePS/Traduzir-paginas-web", "size": "1.7M", "desc": "支持谷歌/Yandex翻译" }
+      ]
+    },
+    {
+      "id": "ai",
+      "name": "AI助手",
+      "icon": "cpu",
+      "items": [
+        { "name": "纳米AI助手", "file": "20241216_纳米AI助手_1.3.8.crx", "store": "https://chromewebstore.google.com/detail/ai助手/fdcmomajekgiigcalflcbjbkemogcbaf", "size": "3.36M", "desc": "AI智能助手" },
+        { "name": "豆包", "file": "202411_豆包_1.13.3.crx", "store": "https://chromewebstore.google.com/detail/豆包/dbjibobgilijgolhjdcbdebjhejelffo", "size": "5.96M", "desc": "智能对话助手" },
+        { "name": "Kimi浏览器助手", "file": "202411_Kimi浏览器助手_1.1.2.crx", "store": "https://chromewebstore.google.com/detail/kimi/caejcfciegnnnepdhaopdogngbmojodl", "size": "2.48M", "desc": "AI浏览助手" }
+      ]
+    },
+    {
+      "id": "download",
+      "name": "下载工具",
+      "icon": "download",
+      "items": [
+        { "name": "AIX智能下载器", "file": "20241216_AIX智能下载器-9.0.52.crx", "store": "https://chromewebstore.google.com/detail/aix智能下载器/ibdfeimkglcmdejppabkaidpippniiob", "size": "1.64M", "desc": "智能下载工具" },
+        { "name": "FetchV-M3U8下载器", "file": "20241216_FetchV-M3U8-HLS视频下载器-2.7.crx", "store": "https://chromewebstore.google.com/detail/fetchv/nfmmmhanepmpifddlkkmihkalkoekpfd", "size": "386KB", "desc": "M3U8视频下载" }
+      ]
+    },
+    {
+      "id": "video",
+      "name": "视频增强",
+      "icon": "play",
+      "items": [
+        { "name": "Global Speed", "file": "202408_Global-Speed-3.0.9971.crx", "store": "https://chromewebstore.google.com/detail/global-speed/jpbjcnkcffbooppibceonlgknpkniiff", "size": "156KB", "desc": "视频速度控制" },
+        { "name": "Unhook", "file": "202409_Unhook-Remove-YouTube-Recommended-1.6.8.0.crx", "store": "https://chromewebstore.google.com/detail/unhook/khncfooichmfjbepaaaebmommgaepoid", "size": "1.8M", "desc": "移除YouTube推荐内容" },
+        { "name": "SponsorBlock", "file": "20241216_SponsorBlock-for-YouTube-5.10.2.crx", "store": "https://chromewebstore.google.com/detail/sponsorblock/mnjggcdmjocbbbhaepdhchncahnbgone", "size": "1.52M", "desc": "跳过YouTube广告片段" },
+        { "name": "极简VIP视频解析", "file": "202412_极简VIP视频解析-3.8.39.crx", "store": "https://chromewebstore.google.com/detail/%E6%9E%81%E7%AE%80vip%E8%A7%86%E9%A2%91%E8%A7%A3%E6%9E%90/gloimpghnmdnmenclkcbmjifpojoenng", "size": "415KB", "desc": "视频VIP解析" }
+      ]
+    },
+    {
+      "id": "reading",
+      "name": "阅读辅助",
+      "icon": "book",
+      "items": [
+        { "name": "Circle阅读助手", "file": "202411_Circle阅读助手3.2.3.0.crx", "store": "https://chromewebstore.google.com/detail/circle/dhpfcgilccfkodnhbllpiaabofjbjcbg", "size": "2.3M", "desc": "网页阅读助手" },
+        { "name": "电子书全网搜", "file": "20241216_电子书全网搜-11.727.65.11.crx", "store": "https://chromewebstore.google.com/detail/电子书全网搜/djifnhpemlaklmopklmapmljdgnemjmc", "size": "1.04M", "desc": "电子书搜索工具" },
+        { "name": "SuperCopy", "file": "20241216_SuperCopy-超级复制-0.1.18.crx", "store": "https://chromewebstore.google.com/detail/supercopy/onepmapfbjohnegdmfhndpefjkppbjkm", "size": "181KB", "desc": "解除复制限制" }
+      ]
+    },
+    {
+      "id": "privacy",
+      "name": "隐私安全",
+      "icon": "lock",
+      "items": [
+        { "name": "Cookie Editor", "file": "202408_Cookie-Editor-1.13.0.crx", "store": "https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm", "size": "181KB", "desc": "Cookie编辑工具" },
+        { "name": "Cookie Manager", "file": "202408_Cookie-Manager-0.0.2.crx", "store": "https://chromewebstore.google.com/detail/cookie-manager/hdhngoamekjhmnpenphenpaiindoinpo", "size": "156KB", "desc": "Cookie管理工具" },
+        { "name": "I Still Don't Care About Cookie", "file": "202408_i-still-dont-care-about-cookie-1.1.4.crx", "store": "https://chromewebstore.google.com/detail/i-still-dont-care/edibdbjcniadpccecjdfdjjppcpchdlm", "size": "8.2KB", "desc": "移除Cookie提示" }
+      ]
+    },
+    {
+      "id": "tools",
+      "name": "实用工具",
+      "icon": "tool",
+      "items": [
+        { "name": "Dark Reader", "file": "202408_dark-reader_4.9.88.crx", "store": "https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh", "size": "2.1M", "desc": "网页暗色模式" },
+        { "name": "篡改猴", "file": "202411_篡改猴5.3.2.crx", "store": "https://chromewebstore.google.com/detail/篡改猴/dhdgffkkebhmkfjojejmpbldmpobfkfo", "size": "1.58M", "desc": "用户脚本管理器" },
+        { "name": "Easy QR Code", "file": "202408_Easy-QR-Code-1.0.7.crx", "store": "https://chromewebstore.google.com/detail/easy-qr-code/foapkpfgfjeibfocdfafnhkjaokpglkj", "size": "245KB", "desc": "二维码生成工具" },
+        { "name": "找券券", "file": "202408_找券券_3.3.3.crx", "store": "https://chromewebstore.google.com/detail/找券券/kkpjfgbpkjhonblnmcpbghfkcfkgkfdg", "size": "1.2M", "desc": "优惠券查找工具" },
+        { "name": "User-Agent Switcher and Manager", "file": "20250210_User-Agent-Switcher-and-Manager-0.6.3.crx", "store": "https://chromewebstore.google.com/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg", "size": "809KB", "desc": "用户代理切换器" }
+      ]
+    }
+  ]
+}
